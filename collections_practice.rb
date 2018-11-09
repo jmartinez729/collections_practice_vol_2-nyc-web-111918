@@ -5,5 +5,9 @@ def begins_with_r(tools)
 end 
 
 def contain_a(array)
+  new_array = []
   
+  array.collect do |element|
+    
+  end 
 end 
