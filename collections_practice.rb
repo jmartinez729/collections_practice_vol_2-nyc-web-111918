@@ -1,4 +1,4 @@
-def begins_with_r
+def begins_with_r(tools)
   true_or_false = nil 
   tools.each_with_index do |i|
     if tools[i][0] == "r"
