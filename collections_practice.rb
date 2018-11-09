@@ -4,4 +4,6 @@ def begins_with_r(tools)
   end 
 end 
 
-def contain_a
+def contain_a(array)
+  
+end 
