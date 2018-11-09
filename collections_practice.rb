@@ -15,3 +15,7 @@ def contain_a(array)
   
   return new_array
 end 
+
+def first_wa(array)
+  array.first
+end 
