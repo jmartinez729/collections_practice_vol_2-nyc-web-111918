@@ -18,6 +18,6 @@ end
 
 def first_wa(array)
   array.find do |element|
-    
+    if element.first
   end 
 end 
