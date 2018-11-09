@@ -26,6 +26,6 @@ end
 
 def remove_non_strings(array)
   array.delete_if do |element|
-    element.class != tring
+    element.class != String
   end 
 end 
