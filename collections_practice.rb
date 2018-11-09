@@ -29,3 +29,10 @@ def remove_non_strings(array)
     element.class != String
   end 
 end 
+
+def count_elements(array)
+  counter = 0
+  
+  array.each do |
+  
+end 
