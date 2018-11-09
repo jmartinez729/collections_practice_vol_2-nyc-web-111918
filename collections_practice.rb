@@ -9,7 +9,9 @@ def contain_a(array)
   
   array.collect do |element|
     if element.include?("a")
-      
+      new_array << element
     end 
   end 
+  
+  return new_array
 end 
