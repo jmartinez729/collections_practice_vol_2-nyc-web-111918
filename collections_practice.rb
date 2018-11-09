@@ -18,6 +18,8 @@ end
 
 def first_wa(array)
   array.find do |element|
-    if element.first
+    if element[0..1] == "wa"
+      return element
+    end 
   end 
 end 
