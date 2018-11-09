@@ -17,5 +17,7 @@ def contain_a(array)
 end 
 
 def first_wa(array)
-  array.first
+  array.find do |element|
+    
+  end 
 end 
