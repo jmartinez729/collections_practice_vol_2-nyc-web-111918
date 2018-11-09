@@ -70,4 +70,3 @@ def organize_schools(schools)
   h
 end
   
-end 
