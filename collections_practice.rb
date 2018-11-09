@@ -8,6 +8,8 @@ def contain_a(array)
   new_array = []
   
   array.collect do |element|
-    
+    if element.include?("a")
+      
+    end 
   end 
 end 
